@@ -1,0 +1,17 @@
+Spring security
+kafka with spring
+Collection framework in deep --> durga sir
+
+Microservices 
+	How to manage disributed transaction
+	Design pattern
+
+Multithreding --> durga sir --> Working progress
+JDBC --> Rewise in iterview time
+File Handling --> have to take small note
+
+Intrnal working of hashMap --> Created note in office book 
+
+Custome Exception in spring boot
+Spring cloud 
+Cloud computing
